@@ -22,6 +22,7 @@ it.only('By Contains name', ()=>{
     cy.get('*[class^="card"]')
 });
 */
+//comment
 
 it('Using get with find and eq', ()=>{
     cy.visit('https://next.privat24.ua/deposit')
