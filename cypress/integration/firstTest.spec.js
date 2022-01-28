@@ -1,6 +1,6 @@
 /// <reference types="Cypress"/>
 
-/*
+
 it('By ID', ()=>{
      cy.visit('https://facebook.com')
      cy.get('#email')
@@ -21,8 +21,8 @@ it.only('By Contains name', ()=>{
     cy.visit('https://next.privat24.ua')
     cy.get('*[class^="card"]')
 });
-*/
-//comment
+
+comment
 
 it('Using get with find and eq', ()=>{
     cy.visit('https://next.privat24.ua/deposit')
